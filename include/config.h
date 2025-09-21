@@ -140,5 +140,7 @@ namespace Pins {
     // ADVANCED FEATURES
     constexpr int BALL_PRESENCE = A13;
     constexpr int KICKER = 34;
+    //TODO: CHECK ROLLER PIN
+    constexpr int ROLLER = 255;
     #endif
 }
